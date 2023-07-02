@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RANJITHp07
 - 👀 I’m interested in ..web development.
-- 🌱 I’m currently a mern stck developer
+- 🌱 I’m currently a full stack developer
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
